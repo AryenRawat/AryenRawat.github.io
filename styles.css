@@ -1,0 +1,50 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  margin-top: 0px;
+  font-family: "Sacramento", cursive;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.top {
+  background-color: #40dfef;
+  position: relative; /*need to make it realtive otherwise absoulte will be from body not div*/
+  padding-top: 100px;
+}
+
+.middle {
+}
+
+.bottom {
+}
+
+.img_1 {
+  height: 300px;
+  width: 300px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.b_cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.t_cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
