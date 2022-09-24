@@ -45,13 +45,12 @@ footer{
 .navbar-brand{
     font-family: 'Source Serif Pro', serif;
     font-size: 2.5rem;
-    font-weight: bolder;
+    font-weight: bold;
 }
 
 .nav-link{
-    font: #252A34;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 1.6rem;
+    font-size : 1.5rem;
+    font-family: "Montserrat-light";
 }
 
 .skills{
@@ -64,14 +63,23 @@ footer{
 
 .abp{
     text-align: center;
-    font-weight: bold;
+    font-family: "Montserrat-light";
+    font-weight: light;
     font-size: 1.5rem;
 }
 
 .sp{
+    font-family: 'Source Serif Pro-light', serif;
+    color: #EAEAEA;
+    font-weight: light;
+    font-size: 1rem;
+}
+
+.sp1{
     font-family: 'Source Serif Pro', serif;
     color: #EAEAEA;
-    font-weight: 1.5rem;
+    font-weight: bold;
+    font-size: 1rem;
 }
 
 .carousel-img{
