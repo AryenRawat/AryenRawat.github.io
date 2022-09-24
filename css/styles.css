@@ -1,0 +1,106 @@
+#title{
+    background-color: #08D9D6;
+}
+
+
+#skills{
+    background-color: #FF2E63;
+    text-align: center;
+    font-family: 'Source Serif Pro', serif;
+    color: #EEEEEE;
+}
+
+
+#about{
+    text-align: center;
+    background-color:#222831;
+    color: #EAEAEA;
+    padding: 7% 15%;
+}
+
+.Container-fluid{
+    padding: 3% 15% 7%;
+}
+
+footer{
+    background-color: #EAEAEA;
+    text-align: center;
+    padding: 2% 4%;
+}
+
+
+.pic{
+    width: 50%;
+    height: 85%;
+}
+
+.intro{
+    padding: 2% 6%;
+}
+
+.s1:hover{
+    color: #252A34;
+}
+
+.navbar-brand{
+    font-family: 'Source Serif Pro', serif;
+    font-size: 2.5rem;
+    font-weight: bolder;
+}
+
+.nav-link{
+    font: #252A34;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.6rem;
+}
+
+.skills{
+    padding: 7% 7%;
+}
+
+.carousel-item{
+    align-items: center;
+}
+
+.abp{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.sp{
+    font-family: 'Source Serif Pro', serif;
+    color: #EAEAEA;
+    font-weight: 1.5rem;
+}
+
+.carousel-img{
+    padding: 2% 8%;
+    height: 30%;
+    width: 30%;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+h2{
+    font: #252A34;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-family: 'Montserrat-light', sans-serif;
+}
+
+h3{
+    font-family: 'Source Serif Pro', serif;
+    color: #252A34;
+    font-weight: light;
+}
+
+@media(max-width:1028px){
+    #title{
+        text-align: center;
+    }
+}
